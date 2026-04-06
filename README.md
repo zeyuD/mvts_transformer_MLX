@@ -17,6 +17,7 @@ The major code that needs some customizations are `datasets/data.py`, `src/main.
 
 It is also suggested to create your own scripts side-by-side to this repo:
 
+```
 ParentFolder/
 │
 ├── mvts_transformer_M
@@ -26,7 +27,7 @@ ParentFolder/
     ├── main.py             # with customizations
     ├── variables.py        # organize the variables
     └── cust_run.py         # a script to call the main.py
-
+```
 
 
 ### Adding your own datasets
